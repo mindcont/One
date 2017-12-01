@@ -4,35 +4,44 @@
 
 ---------------
 
+## Books
+
 > <img src="http://static.mindcont.com/blog/images/resources/icon/book.png" height="32" style="vertical-align:middle"/> 书籍
 
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 编程书籍阅读指南.
 - [awesome](https://github.com/sindresorhus/awesome) 😎 Curated list of awesome lists <https://awesomeweekly.co>
 
 
+## Hardware
+
 > <img src="http://static.mindcont.com/blog/images/resources/icon/hardware.png" height="32" style="vertical-align:middle"/> 硬件和系统
 
 - [opencompute](https://github.com/facebookarchive/opencompute) A community of engineers whose mission is to design and enable the delivery of the most efficient server, storage and data center hardware designs for scalable computing. <http://opencompute.org/>
-- [linux](https://github.com/torvalds/linux)
+- [linux](https://github.com/torvalds/linux) 开源linux
+- [Android](https://github.com/aosp-mirror) 开源安卓
+- [OpenWrt](https://github.com/openwrt) 开源路由
+- [ROS](https://github.com/ROS) 开源机器人操作系统
 - [byte-unixbench](https://github.com/kdlucas/byte-unixbench) linux 性能跑分
 
 
-> <img src="http://static.mindcont.com/blog/images/resources/icon/android.png" height="32" style="vertical-align:middle"/> Android 类
+### Applications
+
+> <img src="http://static.mindcont.com/blog/images/resources/icon/android.png" height="32" style="vertical-align:middle"/> 安卓开发
 
 - [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese)
 - [android-open-project](https://github.com/kesenhoo/android-open-project) 安卓开源项目集锦.
 - [android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) 一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目. <http://www.devtf.cn>
 
 
-> <img src="http://static.mindcont.com/blog/images/resources/icon/web.png" height="32" style="vertical-align:middle"/> 全栈
+> <img src="http://static.mindcont.com/blog/images/resources/icon/web.png" height="32" style="vertical-align:middle"/> Web开发
 
 - [jstraining](https://github.com/ruanyf/jstraining) 全栈工程师培训材料.
-
+- [Nyspider](https://github.com/Nyloner/Nyspider) 各种爬虫---大众点评,安居客，58，人人贷，拍拍贷, IT桔子,拉勾网，豆瓣,搜房网,ASO100...
 
 > <img src="http://static.mindcont.com/blog/images/resources/icon/solution.png" height="32" style="vertical-align:middle"/> 解决方案
 
 - [TeamTalk](https://github.com/meili/TeamTalk) 企业级即时通讯解决方案.
-
+- [Seafile](https://github.com/haiwen/seafile) 企业级云盘存储方案
 
 > <img src="http://static.mindcont.com/blog/images/resources/icon/safe.png" height="32" style="vertical-align:middle"/> 网络安防
 
@@ -40,6 +49,8 @@
 - [EquationGroupLeak](https://github.com/adamcaudill/EquationGroupLeak)
 - [shadowbroker](https://github.com/misterch0c/shadowbroker)
 
+
+### Algorithm
 
 > <img src="http://static.mindcont.com/blog/images/resources/icon/algorithm.png" height="32" style="vertical-align:middle"/> 算法
 
