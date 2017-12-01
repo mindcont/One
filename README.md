@@ -2,7 +2,6 @@
 
 转眼混迹于github 两年有余，跌跌撞撞，目睹很多优秀的项目，有的克隆了，有的点击了star,还是不够简洁有力，决定重新整理一个awesome列表，代号为"One"，寓意万物归一。
 
----------------
 
 ## Books
 
@@ -24,19 +23,21 @@
 - [byte-unixbench](https://github.com/kdlucas/byte-unixbench) linux 性能跑分
 
 
-### Applications
+## Applications
 
 > <img src="http://static.mindcont.com/blog/images/resources/icon/android.png" height="32" style="vertical-align:middle"/> 安卓开发
 
 - [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese)
-- [android-open-project](https://github.com/kesenhoo/android-open-project) 安卓开源项目集锦.
+- [android-open-project](https://github.com/kesenhoo/android-open-project) 安卓开源项目集锦。
 - [android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) 一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目. <http://www.devtf.cn>
 
 
 > <img src="http://static.mindcont.com/blog/images/resources/icon/web.png" height="32" style="vertical-align:middle"/> Web开发
 
-- [jstraining](https://github.com/ruanyf/jstraining) 全栈工程师培训材料.
+- [jstraining](https://github.com/ruanyf/jstraining) 全栈工程师培训材料。
 - [Nyspider](https://github.com/Nyloner/Nyspider) 各种爬虫---大众点评,安居客，58，人人贷，拍拍贷, IT桔子,拉勾网，豆瓣,搜房网,ASO100...
+- [ItChat](https://github.com/littlecodersh/ItChat) 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。http://itchat.readthedocs.io
+- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) 微信小程序开发资源汇总。
 
 > <img src="http://static.mindcont.com/blog/images/resources/icon/solution.png" height="32" style="vertical-align:middle"/> 解决方案
 
@@ -46,11 +47,11 @@
 > <img src="http://static.mindcont.com/blog/images/resources/icon/safe.png" height="32" style="vertical-align:middle"/> 网络安防
 
 - [Pocsuite](https://github.com/knownsec/Pocsuite) Pocsuite is an open-sourced remote vulnerability testing framework developed by the Knownsec Security Team. <http://pocsuite.org>
-- [EquationGroupLeak](https://github.com/adamcaudill/EquationGroupLeak)
-- [shadowbroker](https://github.com/misterch0c/shadowbroker)
+- [EquationGroupLeak](https://github.com/adamcaudill/EquationGroupLeak) 方程式组织黑客工具
+- [shadowbroker](https://github.com/misterch0c/shadowbroker) 影子经纪人泄露的黑客工具
 
 
-### Algorithm
+## Algorithm
 
 > <img src="http://static.mindcont.com/blog/images/resources/icon/algorithm.png" height="32" style="vertical-align:middle"/> 算法
 
